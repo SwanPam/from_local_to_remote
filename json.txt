@@ -1,3 +1,5 @@
 Hello, user. Who are we ? 
-We are people, we are people...
+We are people
+Hello, people.
+
 
